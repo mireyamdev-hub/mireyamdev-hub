@@ -1,7 +1,7 @@
 ### Hi there, here is What I'm Working On! 👋
 
 
-- 🔭 I’m currently working on ... android and frontend web development
+- 🔭 I’m currently working on ... mobile development 
 - 🌱 I’m currently learning ... Kotlin
 - 📱  I've developed an Android App called 'Coleway': https://play.google.com/store/apps/details?id=com.antdevolution.coleway&hl=es&gl=US
 - 🚀 I've created it's landing page: https://coleway.org/
